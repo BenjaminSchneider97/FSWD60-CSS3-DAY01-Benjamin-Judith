@@ -1,0 +1,25 @@
+/* .left{
+	border: 3px solid green;
+	margin:  5px; 
+}
+.right{
+	border:  3px solid blue;
+	margin:  5px;
+}
+#third > p{
+	display:  none;
+}
+h1{
+	display: none;
+}
+#second div{
+	display: none;
+
+} */
+
+.left{
+	display: none;
+}
+.right div p{
+	display: none;
+}
