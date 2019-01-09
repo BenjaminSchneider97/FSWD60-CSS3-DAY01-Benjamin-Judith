@@ -1,3 +1,4 @@
+/* Exercise One */
 /* .left{
 	border: 3px solid green;
 	margin:  5px; 
@@ -17,9 +18,14 @@ h1{
 
 } */
 
-.left{
+/* .left{
 	display: none;
 }
 .right div p{
 	display: none;
+} */
+/* Exercise Two */
+.left div > p {
+	font-size: 2em;
 }
+
